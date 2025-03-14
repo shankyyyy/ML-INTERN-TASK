@@ -25,7 +25,6 @@ Key Features
 ✅ Random Forest & Neural Network for regression
 ✅ GridSearchCV for hyperparameter tuning
 ✅ Evaluation metrics: MAE, RMSE, R² Score
-________________________________________
- Developed as part of the ML Intern Task for Hyperspectral Imaging Analysis.
+
 
 l
